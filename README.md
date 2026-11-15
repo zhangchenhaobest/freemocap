@@ -1,3 +1,29 @@
+# freemocap
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Free Motion Capture for Everyone 💀✨
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+人人可用的免费动作捕捉工具。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 
 # SPECIAL INSTRUCTIONS FOR THE `/development` BRANCH 
 
